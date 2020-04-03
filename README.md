@@ -1,10 +1,11 @@
 # Be-The-Hero
 ### Projeto criado na Semana Omnistack 11.0
-<p>A ideia inicia foi criar uma aplicação para ajudar ONGs a cadastrarem seus casos
-para que possam obter ajuda financeira de outras<p/>
+<p>Aplicação criada para ajudar ONGs a cadastrarem seus casos,
+para que possam obter ajuda financeira.<p/>
+
+<hr>
 
 ### Tecnologias utilizadas
-<hr>
 
 #### Front-end
 <ul>
