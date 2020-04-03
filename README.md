@@ -1,20 +1,20 @@
-# Be-The-Hero
+# Be-The-Hero 🚀 
 ### Projeto criado na Semana Omnistack 11.0
 <p>Aplicação criada para ajudar ONGs a cadastrarem seus casos,
 para que possam obter ajuda financeira.<p/>
 
 <hr>
 
-### Tecnologias utilizadas
+### Tecnologias utilizadas :keyboard: 
 
-#### Front-end
+#### 💻 Front-end
 <ul>
   <li>React</li>
   <li>React Hooks</li>
   <li>Axios</li>
 </ul>
 
-#### Back-end
+#### :gear:  Back-end
 <ul>
     <li>Node js</li>
     <li>Express</li>
@@ -23,7 +23,7 @@ para que possam obter ajuda financeira.<p/>
     <li>Jest (testes automatizados)</li>
 </ul>
 
-#### Mobile
+#### :iphone: Mobile
 <ul>
    <li>React Native</li>
    <li>Expo</li>
